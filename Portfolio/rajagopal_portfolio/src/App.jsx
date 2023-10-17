@@ -1,13 +1,10 @@
 
-import './App.css'
+import styles from'./App.module.css';
 
 function App() {
+  return 
+    <div> Rajagopal Portfolio </div>;
   
-
-  return (
-    <> Rajagopal Portfolio
-    </>
-  )
 }
 
-export default App
+export default App;
